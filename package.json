@@ -1,0 +1,10 @@
+{
+  "name": "htmx-devtools",
+  "version": "0.1.0",
+  "description": "Browser DevTools extension for debugging HTMX applications",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
