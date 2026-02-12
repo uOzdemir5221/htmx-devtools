@@ -1,6 +1,6 @@
 {
   "name": "htmx-devtools",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Browser DevTools extension for debugging HTMX applications",
   "main": "src/index.ts",
   "scripts": {
